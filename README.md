@@ -46,13 +46,6 @@ Currently exploring **Backend Systems, Cloud Deployment & Automation**.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=imlalitkashyap&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=imlalitkashyap&theme=dark&hide_border=true)
-
----
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
