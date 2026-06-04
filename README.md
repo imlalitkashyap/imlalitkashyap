@@ -108,7 +108,7 @@ mission: "Make quality education free — not someday, but today."
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=imlalitkashyap&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e2030&ring=4d9de0&fire=4d9de0&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=imlalitkashyap&theme=dark&hide_border=true&background=0d1117&stroke=1e2030&ring=4d9de0&fire=4d9de0&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
