@@ -76,23 +76,46 @@ I reverse-engineer, design, and ship platforms that institutions won't build for
 
 <br/>
 
-## `$ ps aux | grep current-ops`
+## 🚀 What I Build
 
-```yaml
-currently_building:
-  - name: SPIDYUNIVERSE App Store
-    stack: Next.js 14 + TypeScript + Razorpay
-    desc: App showcase platform for all SPIDYUNIVERSE tools
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  - name: EdTech Platform Suite
-    count: 10+ platforms
-    desc: Study IQ · KGS · Testbook · Unacademy clones (dark OTT UI)
+### 🌐 SPIDYUNIVERSE App Store
+A unified platform showcasing all free EdTech tools built for India's students. Razorpay-powered donations. Zero paywalls.
 
-  - name: API Proxy Architecture
-    desc: Reverse-engineered EdTech APIs for free student access
+`Next.js 14` `TypeScript` `Razorpay` `Vercel`
 
-mission: "Make quality education free — not someday, but today."
-```
+</td>
+<td width="50%" valign="top">
+
+### 📚 EdTech Platform Suite
+10+ production clones of Study IQ, KGS (Khan Sir), Testbook, Unacademy — rebuilt with dark OTT UI, faster, and free.
+
+`Next.js` `Framer Motion` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 API Proxy Architecture
+Reverse-engineered major EdTech platform APIs with token rotation, in-memory caching, and AES-256 encryption — so students never hit a paywall.
+
+`Node.js` `Python` `Redis` `Cloudflare`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Exam Test Engine
+A full TCS iON-style exam portal with bilingual EN/HI support, question palette, mark-for-review, and detailed solutions.
+
+`Next.js` `TypeScript` `KaTeX` `Upstash`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -103,12 +126,6 @@ mission: "Make quality education free — not someday, but today."
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imlalitkashyap&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=4d9de0&count_private=true" />
 &nbsp;
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imlalitkashyap&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=imlalitkashyap&theme=dark&hide_border=true&background=0d1117&stroke=1e2030&ring=4d9de0&fire=4d9de0&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
