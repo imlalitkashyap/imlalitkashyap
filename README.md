@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=LALIT%20KASHYAP&fontSize=50&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20Developer%20%E2%80%A2%20EdTech%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=78&descSize=16&descColor=8b949e&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Lalit%20Kashyap&fontSize=50&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20Developer%20%E2%80%A2%20EdTech%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=78&descSize=16&descColor=8b949e&animation=fadeIn)
 
 </div>
 
@@ -100,9 +100,9 @@ mission: "Make quality education free — not someday, but today."
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=imlalitkashyap&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=4d9de0&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imlalitkashyap&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=4d9de0&count_private=true" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlalitkashyap&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imlalitkashyap&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
 
 </div>
 
@@ -136,7 +136,7 @@ mission: "Make quality education free — not someday, but today."
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=imlalitkashyap&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=imlalitkashyap&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
 
 **Building in public · Open to collabs · Coding for those who can't afford to pay**
 
