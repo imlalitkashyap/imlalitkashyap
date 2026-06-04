@@ -24,7 +24,7 @@
 
 ## &nbsp;`$ whoami`
 
-&nbsp;&nbsp;I'm **Lalit Kashyap** — a full-stack developer and founder of **SPIDYUNIVERSE**, a free EdTech ecosystem built to give every competitive exam aspirant in India access to world-class resources. No cost. No compromise.
+&nbsp;&nbsp;I'm **LALIT KASHYAP** — a full-stack developer and founder of **SPIDYUNIVERSE**, a free EdTech ecosystem built to give every competitive exam aspirant in India access to world-class resources. No cost. No compromise.
 
 &nbsp;&nbsp;I reverse-engineer, design, and ship platforms that institutions won't build for the masses.
 
@@ -36,7 +36,7 @@
 
 | 🏗️ Platforms Built | 🎓 Students Served | 💰 Cost to User | 📢 Ads |
 |:---:|:---:|:---:|:---:|
-| **10+** | **Millions** | **₹ 0** | **Zero** |
+| **10+** | **100K+** | **₹ 0** | **Zero** |
 
 </div>
 
